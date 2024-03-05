@@ -2,4 +2,4 @@
 .env
 
 # c
-hello.c
+c/hello
