@@ -1,7 +1,5 @@
-#include <stdio.h> // system library, user library " "
+#include <stdio.h>
 
 void main() {
-    printf("hello, world~!!\n");
+    printf("hello, world~!! \n");
 }
-
-
