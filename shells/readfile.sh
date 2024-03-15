@@ -7,4 +7,3 @@ do
 	count=$[ $count + 1 ]
 done
 echo "Finishing processing the file"
-
