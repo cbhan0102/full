@@ -1,7 +1,9 @@
-# .env
+#.env
 .env
 
-# c
+.vscode
+
+#c
 c/*
 c/*.o
 c/**/*
@@ -10,7 +12,17 @@ c/**/*
 !c/**/lib/
 !c/**/lib/*.h
 !c/**/Makefile
-!c/**/Makefile.*
 
-#Java
+##java
 **/*.class
+
+##scala
+scala/**/project
+scala/**/target
+
+
+
+## nodejs
+node/**/node_modules
+node/**/package-lock.json
+
