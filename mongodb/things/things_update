@@ -1,0 +1,4 @@
+use test
+db.things.update({empno:1101},{$set:{ebirth:"1995.04.03"}})
+db.things.find({empno:1101})
+
